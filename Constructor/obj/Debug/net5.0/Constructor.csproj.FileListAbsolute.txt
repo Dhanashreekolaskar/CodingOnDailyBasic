@@ -1,0 +1,16 @@
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\Constructor.exe
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\Constructor.deps.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.dev.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\Constructor.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\ref\Constructor.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\bin\Debug\net5.0\Constructor.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.csproj.AssemblyReference.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfo.cs
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\ref\Constructor.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\Constructor\obj\Debug\net5.0\Constructor.genruntimeconfig.cache
