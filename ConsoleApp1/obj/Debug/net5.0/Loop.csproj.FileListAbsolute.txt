@@ -1,0 +1,16 @@
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\Loop.exe
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\Loop.deps.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\Loop.runtimeconfig.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\Loop.runtimeconfig.dev.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\Loop.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\ref\Loop.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\bin\Debug\net5.0\Loop.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.AssemblyInfoInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.AssemblyInfo.cs
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\ref\Loop.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.genruntimeconfig.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\ConsoleApp1\obj\Debug\net5.0\Loop.csproj.AssemblyReference.cache
