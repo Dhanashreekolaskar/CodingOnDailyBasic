@@ -1,0 +1,16 @@
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.exe
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.deps.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.runtimeconfig.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.runtimeconfig.dev.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ref\ArrayPractice.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.csproj.AssemblyReference.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.AssemblyInfo.cs
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ref\ArrayPractice.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.genruntimeconfig.cache

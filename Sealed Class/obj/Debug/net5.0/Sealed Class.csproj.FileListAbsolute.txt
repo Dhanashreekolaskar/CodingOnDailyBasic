@@ -1,0 +1,16 @@
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\Sealed Class.exe
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\Sealed Class.deps.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\Sealed Class.runtimeconfig.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\Sealed Class.runtimeconfig.dev.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\Sealed Class.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\ref\Sealed Class.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\bin\Debug\net5.0\Sealed Class.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.csproj.AssemblyReference.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.AssemblyInfoInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.AssemblyInfo.cs
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\ref\Sealed Class.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\Sealed Class\obj\Debug\net5.0\Sealed Class.genruntimeconfig.cache
