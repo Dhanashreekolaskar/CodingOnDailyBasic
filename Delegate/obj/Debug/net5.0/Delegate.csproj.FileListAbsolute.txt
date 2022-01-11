@@ -1,0 +1,16 @@
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\dhana\Desktop\Practice\DailyPractice\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
